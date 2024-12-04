@@ -19,4 +19,8 @@ Backend Logic:
 Habit creation validates input data.
 Habit update logic ensures that progress doesn’t exceed the daily goal.
 Weekly reports calculate performance metrics from the progress table.
-Notifications:
+
+Filter Dates for the Last 7 Days:
+The system calculates the last 7 days' range and selects progress data that falls within it.
+Compile Results by Habit:
+For each habit, progress data is extracted and added to weeklyData.
