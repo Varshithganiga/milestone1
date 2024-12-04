@@ -1,0 +1,12 @@
+#milestone-1
+topic:-Smart Habit Tracker with Daily Updates
+
+The Smart Habit Tracker helps users maintain daily habits by providing a platform to log progress
+and receive reminders. It encourages consistency through automated updates and analytics.
+
+Features
+1. Add habits with a name and daily goal (e.g., "Drink 8 glasses of water").
+2. Mark habits as complete for the day.
+3. Send daily reminders via WebSocket.
+4. Track weekly completion data and visualize progress.
+
